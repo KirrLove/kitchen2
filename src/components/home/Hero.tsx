@@ -18,7 +18,7 @@ const Hero = () => {
             <Link to="/calculator" className="button-primary">
               Рассчитать стоимость
             </Link>
-            <Link to="/portfolio" className="button-secondary inline-flex items-center">
+            <Link to="/ready-kitchens" className="button-secondary inline-flex items-center">
               Смотреть работы
               <ArrowRight className="ml-2" size={18} />
             </Link>
